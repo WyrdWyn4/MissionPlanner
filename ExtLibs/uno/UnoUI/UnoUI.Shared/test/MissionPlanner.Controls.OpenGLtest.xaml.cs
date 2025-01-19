@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class OpenGLtest{public OpenGLtest(){this.InitializeComponent();}}}

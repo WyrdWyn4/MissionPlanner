@@ -1,1 +1,0 @@
-namespace MissionPlanner.GCSViews.ConfigurationView { public partial class ConfigHWIDs{public ConfigHWIDs(){this.InitializeComponent();}}}

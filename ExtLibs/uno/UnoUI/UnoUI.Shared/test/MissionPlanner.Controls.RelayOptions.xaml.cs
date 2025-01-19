@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class RelayOptions{public RelayOptions(){this.InitializeComponent();}}}

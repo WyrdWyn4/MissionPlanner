@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class ConnectionControl{public ConnectionControl(){this.InitializeComponent();}}}

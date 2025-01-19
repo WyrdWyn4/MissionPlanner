@@ -1,1 +1,0 @@
-namespace MissionPlanner.Warnings { public partial class WarningControl{public WarningControl(){this.InitializeComponent();}}}

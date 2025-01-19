@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class Video{public Video(){this.InitializeComponent();}}}

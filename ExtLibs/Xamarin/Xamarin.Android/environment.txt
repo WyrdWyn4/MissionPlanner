@@ -1,3 +1,0 @@
-debug.mono.log=default,assembly
-MONO_LOG_LEVEL=debug
-MONO_LOG_MASK=dll

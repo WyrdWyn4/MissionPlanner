@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class RangeControl{public RangeControl(){this.InitializeComponent();}}}

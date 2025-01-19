@@ -1,1 +1,0 @@
-namespace MissionPlanner.Log { public partial class LogBrowse{public LogBrowse(){this.InitializeComponent();}}}

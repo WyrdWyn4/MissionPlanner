@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class MavlinkComboBox{public MavlinkComboBox(){this.InitializeComponent();}}}

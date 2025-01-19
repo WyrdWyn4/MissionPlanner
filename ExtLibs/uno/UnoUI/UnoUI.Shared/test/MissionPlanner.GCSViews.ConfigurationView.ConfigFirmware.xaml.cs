@@ -1,1 +1,0 @@
-namespace MissionPlanner.GCSViews.ConfigurationView { public partial class ConfigFirmware{public ConfigFirmware(){this.InitializeComponent();}}}

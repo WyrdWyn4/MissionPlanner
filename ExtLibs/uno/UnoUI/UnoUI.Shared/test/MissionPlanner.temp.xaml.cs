@@ -1,1 +1,0 @@
-namespace MissionPlanner { public partial class temp{public temp(){this.InitializeComponent();}}}

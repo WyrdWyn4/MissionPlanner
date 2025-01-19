@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class ProgressReporterDialogue{public ProgressReporterDialogue(){this.InitializeComponent();}}}

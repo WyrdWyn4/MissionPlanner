@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class ImageLabel{public ImageLabel(){this.InitializeComponent();}}}

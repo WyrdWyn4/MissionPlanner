@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class DigitalSkyUI{public DigitalSkyUI(){this.InitializeComponent();}}}

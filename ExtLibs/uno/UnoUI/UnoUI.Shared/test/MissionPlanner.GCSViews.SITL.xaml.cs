@@ -1,1 +1,0 @@
-namespace MissionPlanner.GCSViews { public partial class SITL{public SITL(){this.InitializeComponent();}}}

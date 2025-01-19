@@ -1,1 +1,0 @@
-namespace MissionPlanner.Swarm.Sequence { public partial class LayoutEditor{public LayoutEditor(){this.InitializeComponent();}}}

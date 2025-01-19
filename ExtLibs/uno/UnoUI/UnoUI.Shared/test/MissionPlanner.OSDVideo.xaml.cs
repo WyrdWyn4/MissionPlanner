@@ -1,1 +1,0 @@
-namespace MissionPlanner { public partial class OSDVideo{public OSDVideo(){this.InitializeComponent();}}}

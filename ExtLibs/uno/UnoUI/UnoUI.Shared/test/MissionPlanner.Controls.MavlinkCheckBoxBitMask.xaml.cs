@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class MavlinkCheckBoxBitMask{public MavlinkCheckBoxBitMask(){this.InitializeComponent();}}}

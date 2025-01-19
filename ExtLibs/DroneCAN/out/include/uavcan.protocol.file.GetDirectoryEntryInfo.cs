@@ -1,8 +1,0 @@
-namespace DroneCAN
-{
-	public partial class DroneCAN {
-
-		const double UAVCAN_PROTOCOL_FILE_GETDIRECTORYENTRYINFO_DT_ID = 46;
-		const double UAVCAN_PROTOCOL_FILE_GETDIRECTORYENTRYINFO_DT_SIG = 0x8C46E8AB568BDA79;
-	}
-}

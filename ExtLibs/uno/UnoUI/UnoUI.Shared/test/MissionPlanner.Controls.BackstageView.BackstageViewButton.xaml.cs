@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls.BackstageView { public partial class BackstageViewButton{public BackstageViewButton(){this.InitializeComponent();}}}

@@ -1,1 +1,0 @@
-namespace MissionPlanner.Swarm.SRB { public partial class Control{public Control(){this.InitializeComponent();}}}

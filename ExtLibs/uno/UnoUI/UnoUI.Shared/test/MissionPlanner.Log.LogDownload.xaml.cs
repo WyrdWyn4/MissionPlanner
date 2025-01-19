@@ -1,1 +1,0 @@
-namespace MissionPlanner.Log { public partial class LogDownload{public LogDownload(){this.InitializeComponent();}}}

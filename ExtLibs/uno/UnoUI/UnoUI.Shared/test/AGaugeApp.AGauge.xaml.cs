@@ -1,1 +1,0 @@
-namespace AGaugeApp { public partial class AGauge{public AGauge(){this.InitializeComponent();}}}

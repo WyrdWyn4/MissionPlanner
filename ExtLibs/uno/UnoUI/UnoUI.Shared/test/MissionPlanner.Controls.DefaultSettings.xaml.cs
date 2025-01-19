@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class DefaultSettings{public DefaultSettings(){this.InitializeComponent();}}}

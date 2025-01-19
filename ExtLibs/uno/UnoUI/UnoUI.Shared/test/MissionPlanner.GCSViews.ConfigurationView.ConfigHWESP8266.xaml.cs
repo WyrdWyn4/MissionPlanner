@@ -1,1 +1,0 @@
-namespace MissionPlanner.GCSViews.ConfigurationView { public partial class ConfigHWESP8266{public ConfigHWESP8266(){this.InitializeComponent();}}}

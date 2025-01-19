@@ -1,1 +1,0 @@
-namespace MissionPlanner.GCSViews.ConfigurationView { public partial class ConfigBatteryMonitoring2{public ConfigBatteryMonitoring2(){this.InitializeComponent();}}}

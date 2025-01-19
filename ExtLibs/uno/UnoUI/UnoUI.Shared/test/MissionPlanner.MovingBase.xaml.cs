@@ -1,1 +1,0 @@
-namespace MissionPlanner { public partial class MovingBase{public MovingBase(){this.InitializeComponent();}}}

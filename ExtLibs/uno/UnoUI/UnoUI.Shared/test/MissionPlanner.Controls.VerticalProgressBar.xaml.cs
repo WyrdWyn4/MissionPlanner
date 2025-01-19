@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class VerticalProgressBar{public VerticalProgressBar(){this.InitializeComponent();}}}

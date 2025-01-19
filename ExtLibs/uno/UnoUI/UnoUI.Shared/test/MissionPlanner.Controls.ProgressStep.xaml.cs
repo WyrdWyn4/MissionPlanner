@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class ProgressStep{public ProgressStep(){this.InitializeComponent();}}}

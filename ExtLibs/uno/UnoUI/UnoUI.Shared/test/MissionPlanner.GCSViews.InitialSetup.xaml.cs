@@ -1,1 +1,0 @@
-namespace MissionPlanner.GCSViews { public partial class InitialSetup{public InitialSetup(){this.InitializeComponent();}}}

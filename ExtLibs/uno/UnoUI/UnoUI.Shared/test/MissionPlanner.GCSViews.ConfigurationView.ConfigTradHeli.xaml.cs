@@ -1,1 +1,0 @@
-namespace MissionPlanner.GCSViews.ConfigurationView { public partial class ConfigTradHeli{public ConfigTradHeli(){this.InitializeComponent();}}}

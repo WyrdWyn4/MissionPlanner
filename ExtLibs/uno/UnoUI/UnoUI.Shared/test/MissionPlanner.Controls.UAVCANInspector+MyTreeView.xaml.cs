@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class MyTreeView{public MyTreeView(){this.InitializeComponent();}}}

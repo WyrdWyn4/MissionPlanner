@@ -1,1 +1,0 @@
-namespace MissionPlanner.GCSViews.ConfigurationView { public partial class ConfigSimplePids{public ConfigSimplePids(){this.InitializeComponent();}}}

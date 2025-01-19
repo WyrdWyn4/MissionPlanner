@@ -1,1 +1,0 @@
-namespace System.Windows.Forms { public partial class MyUserControl{public MyUserControl(){this.InitializeComponent();}}}

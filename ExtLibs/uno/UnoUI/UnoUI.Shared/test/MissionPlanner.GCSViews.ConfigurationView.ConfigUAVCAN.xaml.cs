@@ -1,1 +1,0 @@
-namespace MissionPlanner.GCSViews.ConfigurationView { public partial class ConfigUAVCAN{public ConfigUAVCAN(){this.InitializeComponent();}}}

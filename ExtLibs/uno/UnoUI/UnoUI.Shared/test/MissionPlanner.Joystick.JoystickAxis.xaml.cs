@@ -1,1 +1,0 @@
-namespace MissionPlanner.Joystick { public partial class JoystickAxis{public JoystickAxis(){this.InitializeComponent();}}}

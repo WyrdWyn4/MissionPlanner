@@ -1,1 +1,0 @@
-namespace MissionPlanner.Controls { public partial class RAW_Sensor{public RAW_Sensor(){this.InitializeComponent();}}}
